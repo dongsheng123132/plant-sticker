@@ -1,6 +1,6 @@
 {
   "schemaVersion": "0.1.0",
-  "note": "plant-sticker 占坑样例数据。全球维管植物约 35 万种不能一步全做，先划中国常见/观赏植物子集。ids、traits、conservation 等需按权威源逐项核对，贴纸尚在生产中（sticker.status=pending）。",
+  "note": "plant-sticker 占坑样例数据。全球维管植物约 35 万种不能一步全做，先划中国常见/观赏植物子集。ids、traits、conservation 等需按权威源逐项核对，贴纸尚未生成（筹备中，sticker.status=pending）。",
   "species": [
     {
       "id": "Nelumbo_nucifera",
