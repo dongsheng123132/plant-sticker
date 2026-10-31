@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "note": "plant-sticker 占坑样例数据。全球维管植物约 35 万种不能一步全做，先划中国常见/观赏植物子集。ids、traits、conservation 等需按权威源逐项核对，贴纸尚在生产中（sticker.status=pending）。",
+  "species": [
+    {
+      "id": "Nelumbo_nucifera",
+      "scientificName": "Nelumbo nucifera",
+      "authority": "Gaertn., 1788",
+      "taxonomy": { "system": "POWO/WCVP (待核对)", "order": "Proteales", "family": "Nelumbonaceae", "genus": "Nelumbo" },
+      "names": { "en": "Sacred lotus", "zh-Hans": "莲", "zh-Hant": "蓮", "ja": "ハス" },
+      "ids": { "wikidata": null, "gbif": null, "powo": null, "inaturalist": null },
+      "range": { "distribution": "Asia", "habitat": "aquatic" },
+      "conservation": { "iucn": null },
+      "sticker": { "file": null, "kind": null, "reviewScore": null, "meetsQualityBar": false, "license": "PolyForm-Shield-1.0.0", "status": "pending", "reference": null }
+    },
+    {
+      "id": "Ginkgo_biloba",
+      "scientificName": "Ginkgo biloba",
+      "authority": "L., 1771",
+      "taxonomy": { "system": "POWO/WCVP (待核对)", "order": "Ginkgoales", "family": "Ginkgoaceae", "genus": "Ginkgo" },
+      "names": { "en": "Ginkgo", "zh-Hans": "银杏", "zh-Hant": "銀杏", "ja": "イチョウ" },
+      "ids": { "wikidata": null, "gbif": null, "powo": null, "inaturalist": null },
+      "range": { "distribution": "native China, cultivated worldwide", "habitat": "temperate" },
+      "conservation": { "iucn": null },
+      "sticker": { "file": null, "kind": null, "reviewScore": null, "meetsQualityBar": false, "license": "PolyForm-Shield-1.0.0", "status": "pending", "reference": null }
+    },
+    {
+      "id": "Prunus_mume",
+      "scientificName": "Prunus mume",
+      "authority": "Siebold & Zucc., 1836",
+      "taxonomy": { "system": "POWO/WCVP (待核对)", "order": "Rosales", "family": "Rosaceae", "genus": "Prunus" },
+      "names": { "en": "Japanese apricot", "zh-Hans": "梅", "zh-Hant": "梅", "ja": "ウメ" },
+      "ids": { "wikidata": null, "gbif": null, "powo": null, "inaturalist": null },
+      "range": { "distribution": "East Asia", "habitat": "temperate" },
+      "conservation": { "iucn": null },
+      "sticker": { "file": null, "kind": null, "reviewScore": null, "meetsQualityBar": false, "license": "PolyForm-Shield-1.0.0", "status": "pending", "reference": null }
+    }
+  ]
+}
